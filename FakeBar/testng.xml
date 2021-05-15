@@ -1,0 +1,7 @@
+<suite name="FindTheFakeBar" parallel="tests" thread-count="1" configfailurepolicy="continue">
+    <test name="FakeBar">
+        <classes>
+            <class name="surabhi.fakebar.testcase.TC_1_Fakebar"/>
+        </classes>
+    </test>
+</suite>
